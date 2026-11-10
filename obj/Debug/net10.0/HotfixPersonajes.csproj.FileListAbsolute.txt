@@ -1,0 +1,14 @@
+C:\Users\DELL\HotfixPersonajes\bin\Debug\net10.0\HotfixPersonajes.exe
+C:\Users\DELL\HotfixPersonajes\bin\Debug\net10.0\HotfixPersonajes.deps.json
+C:\Users\DELL\HotfixPersonajes\bin\Debug\net10.0\HotfixPersonajes.runtimeconfig.json
+C:\Users\DELL\HotfixPersonajes\bin\Debug\net10.0\HotfixPersonajes.dll
+C:\Users\DELL\HotfixPersonajes\bin\Debug\net10.0\HotfixPersonajes.pdb
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.AssemblyInfoInputs.cache
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.AssemblyInfo.cs
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.csproj.CoreCompileInputs.cache
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.dll
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\refint\HotfixPersonajes.dll
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.pdb
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\HotfixPersonajes.genruntimeconfig.cache
+C:\Users\DELL\HotfixPersonajes\obj\Debug\net10.0\ref\HotfixPersonajes.dll
