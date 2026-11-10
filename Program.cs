@@ -2,7 +2,7 @@
 Personaje personaje = new Personaje()
 {
     Nombre = "Guerrero",
-    Vida = 100,
+    Vida = -100,
     Ataque = 50,
     Defensa = 30,
     Nivel = 1
