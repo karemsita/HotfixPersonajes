@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotfixPersonajes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c7d41782d3d859194ef954e2dde241ff0b558ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotfixPersonajes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotfixPersonajes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
